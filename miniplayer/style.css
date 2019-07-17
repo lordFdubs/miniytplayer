@@ -1,0 +1,45 @@
+#player {
+  display: none;
+}
+
+#thumbnail {
+  float: right;
+}
+
+#pause {
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 25px;
+    border: none;
+    background-image: url('https://cdn2.iconfinder.com/data/icons/media-controls-5/100/pause-512.png');
+    background-size: 50px, 50px;
+    background-color: white;
+  }
+
+#skip {
+  width: 50px;
+  height: 50px;
+  float: right;
+  margin-top: 50px;
+  margin-right: 25px;
+  border: none;
+  background-image: url('https://cdn2.iconfinder.com/data/icons/media-controls-5/100/pause-512.png');
+  background-size: 50px, 50px;
+}
+
+#back{
+  width: 50px;
+  height: 50px;
+  float: right;
+  margin-top: 50px;
+  margin-right: 25px;
+  border: none;
+  background-image: url('https://cdn2.iconfinder.com/data/icons/media-controls-5/100/pause-512.png');
+  background-size: 50px, 50px;
+}
+
+#gui_shit {
+  display: inline;
+}
